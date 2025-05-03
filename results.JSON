@@ -1,0 +1,26 @@
+{
+  "best_params": {
+    "lambda_over": 0.2,
+    "lambda_under": 0.2,
+    "theta_queue": 0.05
+  },
+  "tuned_router": {
+    "total_spent": 1114137.48,
+    "avg_price": 222.827
+  },
+  "best_ask": {
+    "total_spent": 1114152.31,
+    "avg_price": 222.830,
+    "savings_bps": 0.13
+  },
+  "twap": {
+    "total_spent": 1113833.57,
+    "avg_price": 222.766,
+    "savings_bps": -2.73
+  },
+  "vwap": {
+    "total_spent": 1115545.81,
+    "avg_price": 223.109,
+    "savings_bps": 12.62
+  }
+}
